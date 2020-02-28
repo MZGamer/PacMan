@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scence/ArcadeMode.unity
+- path: Assets/Scence/ArcResult.unity
   isLoaded: 1
   isActive: 1
